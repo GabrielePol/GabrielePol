@@ -1,7 +1,7 @@
 <p align="center">
   <img src=https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm5uMjFuZzlqN2htaXd1Ym01dGRuZ2wyZTBleXRpaWx5c2xiajRmaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7J4NbPKvUuSl3Tqilq/giphy.gif
   <br>
-  <i>"I'm finishing this fight."</i>
+
 </p>
 
 Ciao, sono Gabriele! 
