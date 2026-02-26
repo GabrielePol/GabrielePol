@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNhaGNtZXM2ZDFlZmQyajczNmlsNmEzc3RoeWFjZTlqYjl0MzN4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tWriZ0Y6oVQJMH4fIW/giphy.gif" width="600" alt="Master Chief Finish the Fight">
-  <br>
-  <i>"I'm finishing this fight."</i>
-</p>
+
+![Uploading halo.gif…]()
 
 # Ciao, sono Gabriele! 👋
 
