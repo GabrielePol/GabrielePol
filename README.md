@@ -1,4 +1,4 @@
-                            ![halo](https://github.com/user-attachments/assets/3acad54b-48d4-4422-862d-cb666e655be2)
+  ![halo](https://github.com/user-attachments/assets/3acad54b-48d4-4422-862d-cb666e655be2)
 
 # Ciao, sono Gabriele! 👋
 
