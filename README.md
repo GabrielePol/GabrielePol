@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=200&section=header&text=Gabriele%20Pol&fontSize=70&animation=fadeIn" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidWtwNnd6NmR6bm96amZ6bm96amZ6bm96amZ6bm96amZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZNoOD9O8/f6gl19HC89LXCABVzR/giphy.gif" width="600" alt="Master Chief Finish the Fight">
+  <br>
+  <i>"I'm finishing this fight."</i>
 </p>
-
 # Ciao, sono Gabriele! 👋
 
-### 🤖 Appassionato di Robotica | 💻 Studente di Informatica @ La Sapienza
+### 🤖 Appassionato di Robotica, Architettura dei Computer, Circuiti, Algoritmi | 💻 Studente di Informatica @ La Sapienza
 
-> *"I'm finishing this fight."* — Master Chief
+
 
 ---
 
@@ -14,6 +15,7 @@
 * **Informatica:** Algoritmi e architetture software presso La Sapienza.
 * **Robotica ed Elettronica:** Progettazione di sistemi embedded e microcontrollori.
 * **Matematica:** Fondamenti per la fisica e l'automazione.
+
 
 ### 💻 Tecnologie e Strumenti
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
