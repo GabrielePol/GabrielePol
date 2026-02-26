@@ -1,6 +1,4 @@
 
-![Uploading halo.gif…]()
-
 # Ciao, sono Gabriele! 👋
 
 ### 🤖 Appassionato di Robotica, Architettura dei Computer, Circuiti, Algoritmi | 💻 Studente di Informatica @ La Sapienza
