@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRidWtwNnd6NmR6bm96amZ6bm96amZ6bm96amZ6bm96amZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZNoOD9O8/f6gl19HC89LXCABVzR/giphy.webp" width="600" alt="Master Chief Finish the Fight">
+  <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNhaGNtZXM2ZDFlZmQyajczNmlsNmEzc3RoeWFjZTlqYjl0MzN4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tWriZ0Y6oVQJMH4fIW/giphy.gif width="600" alt="Master Chief Finish the Fight">
   <br>
   <i>"I'm finishing this fight."</i>
 </p>
