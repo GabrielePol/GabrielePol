@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidWtwNnd6NmR6bm96amZ6bm96amZ6bm96amZ6bm96amZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZNoOD9O8/f6gl19HC89LXCABVzR/giphy.gif" width="600" alt="Master Chief Finish the Fight">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRidWtwNnd6NmR6bm96amZ6bm96amZ6bm96amZ6bm96amZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZNoOD9O8/f6gl19HC89LXCABVzR/giphy.webp" width="600" alt="Master Chief Finish the Fight">
   <br>
   <i>"I'm finishing this fight."</i>
 </p>
@@ -34,10 +34,7 @@
 
 ---
 
-### 🎮 "Finish the Fight"
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidWtwNnd6NmR6bm96amZ6bm96amZ6bm96amZ6bm96amZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZNoOD9O8/f6gl19HC89LXCABVzR/giphy.gif" width="700" alt="Halo 2 Finish the Fight">
-</p>
+
 
 ---
 
