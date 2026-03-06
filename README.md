@@ -2,19 +2,17 @@
   <img src="https://github.com/user-attachments/assets/3acad54b-48d4-4422-862d-cb666e655be2" width="600" alt="Halo Finish the Fight">
 </p>
 
-# Ciao, sono Gabriele! 👋
+# Ciao, sono Gabriele. Benvenuto nel mio profilo Github.
 
-### 🤖 Appassionato di Robotica, Architettura dei Computer, Circuiti, Algoritmi | 💻 Studente di Informatica @ La Sapienza
+### 🤖 Appassionato di Robotica, Architettura dei Computer, Circuiti, Algoritmi | 💻 Studente di Informatica @ La Sapienza 
 
 
 
 ---
 
 ### 🛠️ Cosa sto studiando e costruendo
-* **Informatica:** Algoritmi e architetture software presso La Sapienza.
-* **Robotica ed Elettronica:** Progettazione di sistemi embedded e microcontrollori.
-* **Matematica:** Fondamenti per la fisica e l'automazione.
-
+* **Informatica:** Sono al secondo anno presso @LaSapienza
+* **Corsi Singoli:** Attualmente frequento anche Fisica 1, Fondamenti di Elettronica ed Elettrotecnica presso il Politecnico di Milano.
 
   ### 💻 Linguaggi e Sistemi Operativi che attualmente conosco
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,8 +32,7 @@
 ---
 
 ### 📫 Contatti
-* 🎓 Studente presso l'Università degli Studi di Roma "La Sapienza".
-* 🔭 Attualmente focalizzato su progetti di automazione.
+* 🎓 Studente presso l'Università degli Studi di Roma "La Sapienza" e presso il Politecnico di Milano.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GabrielePol&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
