@@ -16,10 +16,8 @@
 * **Matematica:** Fondamenti per la fisica e l'automazione.
 
 
-### 💻 Tecnologie e Strumenti
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ### 💻 Linguaggi e Sistemi Operativi che attualmente conosco
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
