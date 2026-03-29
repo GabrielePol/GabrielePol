@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/3acad54b-48d4-4422-862d-cb666e655be2" width="600" alt="Halo Finish the Fight">
 </p>
 
-# Ciao, sono Gabriele. Benvenuto nel mio profilo Github.
+
 
 ### 🤖 Appassionato di Robotica, Architettura dei Computer, Circuiti, Algoritmi | 💻 Studente di Informatica @ La Sapienza 
 
